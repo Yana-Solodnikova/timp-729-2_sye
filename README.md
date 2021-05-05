@@ -1,3 +1,5 @@
-# timp-729-2_sye
+# timp-729-2_sye  
 
+### Task_1
+You need to implement functions for working with a doubly linked list. 
 
